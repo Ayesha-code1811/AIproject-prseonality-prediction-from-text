@@ -1,0 +1,48 @@
+1. ISTJ - The Inspector
+Traits: Practical, logical, organized, dependable.
+Example: A meticulous accountant who ensures every detail is correct in financial records.
+2. ISFJ - The Protector
+Traits: Caring, reliable, supportive, detail-oriented.
+Example: A nurse who remembers every patient’s preferences and goes the extra mile to comfort them.
+3. INFJ - The Advocate
+Traits: Visionary, empathetic, determined, deep-thinking.
+Example: A counselor who helps people uncover their true potential while promoting positive change.
+4. INTJ - The Mastermind
+Traits: Strategic, independent, analytical, ambitious.
+Example: A scientist devising long-term strategies for solving climate change.
+5. ISTP - The Virtuoso
+Traits: Hands-on, adventurous, problem-solver, independent.
+Example: A mechanic who intuitively fixes complicated machinery without manuals.
+6. ISFP - The Adventurer
+Traits: Artistic, spontaneous, sensitive, introspective.
+Example: A photographer capturing the beauty of fleeting moments.
+7. INFP - The Mediator
+Traits: Idealistic, compassionate, creative, introspective.
+Example: A writer crafting novels that explore deep human emotions.
+8. INTP - The Thinker
+Traits: Analytical, curious, independent, theoretical.
+Example: A programmer developing innovative algorithms for artificial intelligence.
+9. ESTP - The Entrepreneur
+Traits: Energetic, pragmatic, sociable, action-oriented.
+Example: A salesperson who thrives in dynamic environments and closes deals effortlessly.
+10. ESFP - The Performer
+Traits: Outgoing, fun-loving, spontaneous, friendly.
+Example: An entertainer who captivates audiences with humor and charisma.
+11. ENFP - The Campaigner
+Traits: Enthusiastic, creative, sociable, free-spirited.
+Example: A motivational speaker inspiring people to pursue their dreams.
+12. ENTP - The Debater
+Traits: Witty, energetic, curious, argumentative.
+Example: A lawyer who thrives on debates and exploring innovative legal solutions.
+13. ESTJ - The Executive
+Traits: Organized, decisive, traditional, strong leadership.
+Example: A project manager efficiently coordinating team efforts to meet deadlines.
+14. ESFJ - The Consul
+Traits: Social, supportive, organized, warm.
+Example: A teacher who creates a nurturing classroom environment while maintaining structure.
+15. ENFJ - The Protagonist
+Traits: Charismatic, empathetic, inspiring, organized.
+Example: A community leader uniting people for a social cause.
+16. ENTJ - The Commander
+Traits: Visionary, strategic, assertive, confident.
+Example: A CEO leading a company to success with bold decisions and a clear vision.

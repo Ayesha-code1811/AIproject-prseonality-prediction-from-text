@@ -1,0 +1,7 @@
+Plz run this project in google collab as this could not be properly made in Jutpyter notebook due to many version issues of different libraries and other compatibility issues
+
+here is my google collab link if needed:
+https://colab.research.google.com/drive/1T5qqwF8CocZ-bqCKxh8ndadxBLZiZV0o?usp=sharing
+
+datset link:
+https://www.kaggle.com/datasets/datasnaek/mbti-type
